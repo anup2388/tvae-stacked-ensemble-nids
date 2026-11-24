@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "TVAE-augmented stacked-ensemble network intrusion detection: reference implementation"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: Abraham
+    given-names: Anup Mathew
+    affiliation: "St. Thomas Institute for Science and Technology, Trivandrum; Noorul Islam Centre for Higher Education"
+  - family-names: Kumar
+    given-names: R. Mathusoothana S.
+    affiliation: "Noorul Islam Centre for Higher Education"
+abstract: "Reference implementation of 'An Imbalance-Resilient Network Intrusion Detection Framework Using TVAE-Based Data Augmentation and Stacked Ensemble Learning'."
+license: MIT
