@@ -122,9 +122,6 @@ python nids_tvae_stack.py --data-dir toy/data --out-dir toy/out \
 - Run time on the full dataset is long; every run records it in `timing.json`.
 - Memory: the cleaned dataset has about 5 million flows and the TVAE-augmented training set about 3.4 million rows. Use a high-memory runtime.
 
-## Citation
-
-If you use this code, please cite the manuscript. Citation metadata is in `CITATION.cff`; the full reference will be added on publication. A DOI for the archived release: `[DOI]`.
 
 ## Licence
 
